@@ -10,6 +10,7 @@ import java.util.Arrays;
 public class MainActivity extends Activity {
 
     private TextView textView;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
